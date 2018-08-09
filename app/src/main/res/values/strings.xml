@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RemoteBindingClientSide</string>
+    <string name="bind_service">Bind service</string>
+    <string name="unbind_service">Unbind service</string>
+    <string name="get_random_number_id">Get Random Number</string>
+    <string name="random_number">Random Number:</string>
+    <string name="service_not_bound">Service not bound</string>
+</resources>
